@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermal-printer-ws-net.csproj": {}
+    "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermalPrinterWsNet.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermal-printer-ws-net.csproj": {
+    "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermalPrinterWsNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermal-printer-ws-net.csproj",
-        "projectName": "thermal-printer-ws-net",
-        "projectPath": "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermal-printer-ws-net.csproj",
+        "projectUniqueName": "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermalPrinterWsNet.csproj",
+        "projectName": "thermalPrinterWsNet",
+        "projectPath": "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\thermalPrinterWsNet.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
         "outputPath": "E:\\Proyectos\\thermal-printer-ws-net\\thermal-printer-ws-net\\obj\\",
         "projectStyle": "PackageReference",

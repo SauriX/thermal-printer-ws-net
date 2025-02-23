@@ -1,0 +1,13 @@
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\bin\Debug\net8.0\thermal-printer-ws-net.deps.json
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\bin\Debug\net8.0\thermal-printer-ws-net.dll
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\bin\Debug\net8.0\thermal-printer-ws-net.pdb
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.csproj.AssemblyReference.cache
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.AssemblyInfoInputs.cache
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.AssemblyInfo.cs
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.csproj.CoreCompileInputs.cache
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.sourcelink.json
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.dll
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\refint\thermal-printer-ws-net.dll
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\thermal-printer-ws-net.pdb
+E:\Proyectos\thermal-printer-ws-net\thermal-printer-ws-net\obj\Debug\net8.0\ref\thermal-printer-ws-net.dll

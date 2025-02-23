@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("thermal-printer-ws-net")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("thermalPrinterWsNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a958abfe4a182b7ef725abeb8de64575eb844c8")]
-[assembly: System.Reflection.AssemblyProductAttribute("thermal-printer-ws-net")]
-[assembly: System.Reflection.AssemblyTitleAttribute("thermal-printer-ws-net")]
+[assembly: System.Reflection.AssemblyProductAttribute("thermalPrinterWsNet")]
+[assembly: System.Reflection.AssemblyTitleAttribute("thermalPrinterWsNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
